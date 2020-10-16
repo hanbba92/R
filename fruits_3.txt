@@ -1,0 +1,4 @@
+fruits,name,people,usage
+banana,hanbit,2,eat
+apple,jisu,4,mix
+pineapple,love,6,tool
